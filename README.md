@@ -1,5 +1,15 @@
-### Hi there! 👋 I'm Will.
+# Hi there! 👋 I'm Will.
+
 **🌍  Bristol, UK & Isle of Man**
+
+## 📖 Bio
+
+I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences. I thrive on new challenges and refining processes to deliver elegant solutions. A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
+
+I relocated to the Isle of Many in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
+
+My hobbies include music, playing sports and learning new programming languages.
+
 
 ## 🏢 Lead Developer  
 @ [FifteenTen](fifteenten.co.uk) ***- Digital Design Agency***
@@ -10,13 +20,6 @@
 - [**LinkedIn**](https://www.linkedin.com/in/will-leighton-62899a1b7/) 🔗
 - [**Portfolio/Website**](http://willnjl.github.io/) 🔗
 
-## 📖 Bio
-
-I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences. I thrive on new challenges and refining processes to deliver elegant solutions. A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
-
-I relocated to the Isle of Many in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
-
-My hobbies include music, playing sports and learning new programming languages.
 
 ## 📧 Contact Information
 
