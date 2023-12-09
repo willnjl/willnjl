@@ -2,12 +2,12 @@
 
 # Will Leighton
 
-## 🌍  Bristol, UK & Isle of Man
+**🌍  Bristol, UK & Isle of Man**
 
 ## 🏢 Lead Developer  
 @ [FifteenTen](fifteenten.co.uk) ***- Digital Design Agency***
 
-**Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. • **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on a headless CMS • **Designing** REST API’s, tooling / stack architecture and client facing CMS.• **Providing** technical expertise, problem solving and project planning. **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
+**Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. •  **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on headless CMS's • **Designing** REST API’s, tooling / stack architecture and client facing CMS's. • **Providing** technical expertise, problem solving and project planning. • **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
 
 
 - [**LinkedIn**](https://www.linkedin.com/in/will-leighton-62899a1b7/) 🔗
@@ -126,16 +126,8 @@ Here is broad but not exhaustive overview of my skills and experience over the y
   - **Testing** websites for responsiveness, performance, SEO and  QA.
   - **Maintaining** legacy sites (php, jQuery, CSS)
 
-### Fifteen Ten Ltd
-- **Position:** Web Developer
-- **Duration:** December 2020 - June 2021
-- **Responsibilities:**
-  - **Building** fast, responsive websites with maintainable code using an existing workflow consisting of wordpress, SCSS, gulp and Github.
-  - **Interpreting** designs from Adobe XD and photoshop.
-  - **Testing** websites for responsiveness, performance, SEO and  QA.
-  - **Maintaining** legacy sites (php, jQuery, CSS)
 
-## Coding Fellowship - Develop Me
+### Coding Fellowship - Develop Me
 - **Position:** Coding Fellowship Graduate
 - **Duration:** September 2020
 - **Content** Intensive and project-driven 12 week software development course using a webstack •  Taught by industry professionals using best practice approaches.
