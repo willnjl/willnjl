@@ -84,7 +84,7 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 ### Monde Radio
 
 - **Description:** Online radio station where I also occasionaly host under the moniker [***Safe Hands***](https://monde-radio.com/host/safe-hands/)  
-- **Link:** [Link](https://willnjl.github.io/Trawler-App/](https://monde-radio.com)
+- **Link:** [Link](https://monde-radio.com)
 - **2023**
 
 
