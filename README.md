@@ -7,7 +7,9 @@
 
 I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences.
 I thrive on new challenges and refining processes to deliver elegant solutions.
+
 &nbsp;
+
 A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
 
 I relocated to the Isle of Man in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
