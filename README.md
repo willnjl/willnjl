@@ -1,8 +1,9 @@
-# Hi there! 👋 I'm Will.
+# 👋  Hi there! I'm Will. 
+
+
+## 📖 About Me
 
 **🌍  Bristol, UK & Isle of Man**
-
-## 📖 Bio
 
 I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences. I thrive on new challenges and refining processes to deliver elegant solutions. A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
 
