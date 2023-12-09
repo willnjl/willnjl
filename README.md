@@ -12,7 +12,7 @@ A proven collaborator, I'm motivated by opportunities to learn from exceptional 
 
 I relocated to the Isle of Man in May 2022 to support my partner's role with the Manx Wildlife Trust and have been hybrid working since then.
 
-When not at work I love music 🎛️, the great outdoors 🥾 , playing sport 🏉 and learning new programming languages 🤓.
+When not at work I love music, the great outdoors, playing sport  and learning new programming languages. 🎛️🥾🏉🤓
 
 ## 🏢 Current Role
 **Lead Dev** @ [FifteenTen](fifteenten.co.uk) 
