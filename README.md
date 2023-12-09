@@ -14,7 +14,7 @@ I relocated to the Isle of Man in May 2022 to support my partner's role with the
 
 My hobbies include music, playing sports and learning new programming languages.
 
- **📧 Contact Information**
+## 📧 Contact Information**
 - **Email:** will_leighton@outlook.com
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/will-leighton-62899a1b7/)
 - **Portfolio/Website:** [Portfolio](http://willnjl.github.io/)
