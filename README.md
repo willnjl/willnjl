@@ -10,7 +10,7 @@ I thrive on new challenges and refining processes to deliver elegant solutions.
 
 A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
 
-I relocated to the Isle of Man in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
+I relocated to the Isle of Man in May 2022 to support my partner's role with the Manx Wildlife Trust and have been hybrid working since then.
 
 My hobbies include music, playing sports and learning new programming languages.
 
