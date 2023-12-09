@@ -7,13 +7,13 @@
 
 I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences. I thrive on new challenges and refining processes to deliver elegant solutions. A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
 
-I relocated to the Isle of Many in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
+I relocated to the Isle of Man in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
 
 My hobbies include music, playing sports and learning new programming languages.
 
 
-## 🏢 Lead Developer  
-@ [FifteenTen](fifteenten.co.uk) ***- Digital Design Agency***
+## 🏢 Current Role
+Lead Dev @ [FifteenTen](fifteenten.co.uk) ***- Digital Design Agency***
 
 **Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. •  **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on headless CMS's • **Designing** REST API’s, tooling / stack architecture and client facing CMS's. • **Providing** technical expertise, problem solving and project planning. • **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
 
@@ -29,7 +29,7 @@ My hobbies include music, playing sports and learning new programming languages.
 - **Portfolio/Website:** [Portfolio](http://willnjl.github.io/)
 
 
-##  👷 Skills (A-Z)
+## 🏗️ Skills (A-Z)
 
 Here is broad but not exhaustive overview of my skills and experience over the years as a developer. Feel free to ask me about anything you can see here or indeed anything not listed. I'm always open to sharing knowledge and experience!
 
@@ -100,9 +100,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 - **2020**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
-
-&nbsp;
-
 
 
 ## 🏢 Work Experience
