@@ -7,6 +7,7 @@
 
 I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences.
 I thrive on new challenges and refining processes to deliver elegant solutions.
+&nbsp;
 A proven collaborator, I'm motivated by opportunities to learn from exceptional individuals and make meaningful contributions. 
 
 I relocated to the Isle of Man in May 2022 to support my partner's role with the Manx Wildlife Trust and I have been hybrid working since then.
@@ -25,7 +26,6 @@ Fifteen Ten is a digital design agency specialising in the recruitment sector.
 
 #### My Responsibilies
 **Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. •  **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on headless CMS's • **Designing** REST API’s, tooling / stack architecture and client facing CMS's. • **Providing** technical expertise, problem solving and project planning. • **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
-
 
 
 
