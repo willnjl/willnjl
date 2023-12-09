@@ -13,8 +13,11 @@ My hobbies include music, playing sports and learning new programming languages.
 
 
 ## 🏢 Current Role
-Lead Dev @ [FifteenTen](fifteenten.co.uk) ***- Digital Design Agency***
+**Lead Dev** @ [FifteenTen](fifteenten.co.uk) 
 
+Fifteen Ten is a digital design agency specialising in the recruitment sector.
+
+#### My Responsibilies
 **Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. •  **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on headless CMS's • **Designing** REST API’s, tooling / stack architecture and client facing CMS's. • **Providing** technical expertise, problem solving and project planning. • **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
 
 
