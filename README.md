@@ -1,7 +1,4 @@
-### Hi there! 👋
-
-# Will Leighton
-
+### Hi there! 👋 I'm Will.
 **🌍  Bristol, UK & Isle of Man**
 
 ## 🏢 Lead Developer  
