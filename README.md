@@ -11,6 +11,10 @@ I relocated to the Isle of Man in May 2022 to support my partner's role with the
 
 My hobbies include music, playing sports and learning new programming languages.
 
+### 📧 Contact Information
+- **Email:** will_leighton@outlook.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/will-leighton-62899a1b7/)
+- **Portfolio/Website:** [Portfolio](http://willnjl.github.io/)
 
 ## 🏢 Current Role
 **Lead Dev** @ [FifteenTen](fifteenten.co.uk) 
@@ -21,15 +25,7 @@ Fifteen Ten is a digital design agency specialising in the recruitment sector.
 **Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. •  **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on headless CMS's • **Designing** REST API’s, tooling / stack architecture and client facing CMS's. • **Providing** technical expertise, problem solving and project planning. • **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
 
 
-- [**LinkedIn**](https://www.linkedin.com/in/will-leighton-62899a1b7/) 🔗
-- [**Portfolio/Website**](http://willnjl.github.io/) 🔗
 
-
-## 📧 Contact Information
-
-- **Email:** will_leighton@outlook.com
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/will-leighton-62899a1b7/)
-- **Portfolio/Website:** [Portfolio](http://willnjl.github.io/)
 
 
 ## 🏗️ Skills (A-Z)
