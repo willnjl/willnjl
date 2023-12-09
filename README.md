@@ -68,8 +68,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   
-&nbsp;
-
 ### RTC.co.uk
 
 - **Description:** Fully decoupled, headless Next.JS app on Wordpress backend using a GraphQL interface.
@@ -78,8 +76,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   
-&nbsp;
-
 ### Trawler Alert
 
 - **Description:** Personal Interest project where I created a fullstack app which could locate environmentally destructive super trawlers and record their activity. The app would send a tweet when the trawlers were active in British waters. It could plot the activity on a map using Leaflet.js.
@@ -89,7 +85,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
-&nbsp;
 <!-- 
 ### Online Shop - React Proficiency Test
 - **Description:** This was a coding proficiency challenge as part of a job application. The task was to create frontend app that can
@@ -118,7 +113,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 ### Fifteen Ten Ltd
 - **Position:** Web Developer
 - **Duration:** December 2020 - June 2021
-
 - **Responsibilities:**
   - **Building** fast, responsive websites with maintainable code using an existing workflow consisting of wordpress, SCSS, gulp and Github.
   - **Interpreting** designs from Adobe XD and photoshop.
@@ -129,7 +123,7 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 ### Coding Fellowship - Develop Me
 - **Position:** Coding Fellowship Graduate
 - **Duration:** September 2020
-- **Content** Intensive and project-driven 12 week software development course using a webstack •  Taught by industry professionals using best practice approaches.
+- **Curriculum** Intensive and project-driven 12 week software development course using a webstack •  Taught by industry professionals using best practice approaches.
 
 ### Technical Theatre and Live Events Specialist
 
