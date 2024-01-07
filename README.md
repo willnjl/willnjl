@@ -106,7 +106,7 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 ## 🏢 Work Experience
 
 ### Fifteen Ten Ltd
-- **Position:** Lead Developer
+- **Position:** Senior Developer
 - **Duration:** June 2021 - Present
 - **Responsibilities:**
   - **Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code.
