@@ -15,7 +15,7 @@ I relocated to the Isle of Man in May 2022 to support my partner's role with the
 When not at work I love music, the great outdoors, playing sport  and learning new programming languages. 🎛️🥾🏉🤓
 
 ## 🏢 Current Role
-**Lead Dev** @ [FifteenTen](fifteenten.co.uk) 
+**Senior Dev** @ [FifteenTen](fifteenten.co.uk) 
 
 Fifteen Ten is a digital design agency specialising in the recruitment sector.
 
