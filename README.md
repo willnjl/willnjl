@@ -74,13 +74,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   
-### Trawler Alert
-
-- **Description:** Personal Interest project where I created a fullstack app which could locate environmentally destructive super trawlers and record their activity. The app would send a tweet when the trawlers were active in British waters. It could plot the activity on a map using Leaflet.js.
-- **Link:** [Link](https://willnjl.github.io/Trawler-App/) (API no longer active)
-- **2020**
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
 ### Monde Radio
 
