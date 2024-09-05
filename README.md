@@ -15,14 +15,8 @@ I relocated to the Isle of Man in May 2022 to support my partner's role with the
 When not at work I love music, the great outdoors, playing sport  and learning new programming languages. 🎛️🥾🏉🤓
 
 ## 🏢 Current Role
-**Full-Stack Web Developer** @ [[Lunar](https://lunar.build/)
-- Wordpress
-- Laravel
-- Strapi
 
-#### My Responsibilities:
-
-**Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code. •  **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on headless CMS's • **Designing** REST API’s, tooling / stack architecture and client facing CMS's. • **Providing** technical expertise, problem solving and project planning. • **Facilitating** collaboration between inhouse and contracted developers, project managers and clients.
+**Full-Stack Web Developer** @ [Lunar](https://lunar.build/)
 
 ## 📧 Contact Information
 - **Email:** will_leighton@outlook.com
@@ -99,6 +93,11 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ## 🏢 Work Experience
 
+### Lunar 
+- **Position:** Full Stack Developer
+- **Duration:** September 2024 - Present
+ 
+  -  
 ### Fifteen Ten Ltd
 - **Position:** Senior Developer
 - **Duration:** June 2021 - Present
