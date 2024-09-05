@@ -97,7 +97,6 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 - **Position:** Full Stack Developer
 - **Duration:** September 2024 - Present
  
-  -  
 ### [Fifteen Ten Ltd](https://fifteenten.co.uk)
 - **Position:** Senior Developer
 - **Duration:** June 2021 - Present
