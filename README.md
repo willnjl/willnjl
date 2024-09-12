@@ -109,7 +109,7 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ### [Fifteen Ten Ltd](https://fifteenten.co.uk)
 - **Position:** Web Developer
-- **Duration:** December 2020 - June 2021
+- **Duration:** December 2020 - September 2024
 - **Responsibilities:**
   - **Building** fast, responsive websites with maintainable code using an existing workflow consisting of wordpress, SCSS, gulp and Github.
   - **Interpreting** designs from Adobe XD and photoshop.
