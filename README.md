@@ -99,7 +99,7 @@ Here is broad but not exhaustive overview of my skills and experience over the y
  
 ### [Fifteen Ten Ltd](https://fifteenten.co.uk)
 - **Position:** Senior Developer
-- **Duration:** June 2021 - Present
+- **Duration:** June 2021 - September 2024
 - **Responsibilities:**
   - **Delivering**  fast, responsive, secure web applications, marquee projects, site integrations and new features to spec and on time with maintainable code.
   - **Developing** new products, in house plugins, software integrations, composer packages, complex frontend applications on a headless CMS
@@ -109,7 +109,7 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 
 ### [Fifteen Ten Ltd](https://fifteenten.co.uk)
 - **Position:** Web Developer
-- **Duration:** December 2020 - September 2024
+- **Duration:** December 2020 - September June 2021
 - **Responsibilities:**
   - **Building** fast, responsive websites with maintainable code using an existing workflow consisting of wordpress, SCSS, gulp and Github.
   - **Interpreting** designs from Adobe XD and photoshop.
