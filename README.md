@@ -3,7 +3,7 @@
 
 ## 📖 About Me
 
-**🌍  Bristol, UK & Isle of Man 🇮🇲**
+🌍 **UK & Isle of Man 🇮🇲**
 
 I'm a tech optimist who loves to solve challenging problems and craft beautiful user experiences.
 I thrive on new challenges and refining processes to deliver elegant solutions.
