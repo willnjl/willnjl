@@ -14,7 +14,7 @@ I relocated to the Isle of Man in May 2022 to support my partner's role with the
 
 When not at work I love music, the great outdoors, playing sport  and learning new programming languages. 🎛️🥾🏉🤓
 
-In November 2024 I launched skeetfirst.im. An 'What's On' guide and  online platform dedicated to bringing people together and celebrating the vibrant cultural scene and community on the Isle of Man 🇮🇲.
+In November 2024 I launched [skeetfirst.im](https://skeetfirst.im/). An 'What's On' guide and  online platform dedicated to bringing people together and celebrating the vibrant cultural scene and community on the Isle of Man 🇮🇲.
 
 ## 🏢 Current Role
 
