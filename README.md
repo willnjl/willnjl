@@ -91,8 +91,10 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 - **Link:** [Link](https://willnjl.github.io/coding-challenge-shop/#/)
 - **2020**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) -->
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+
 -->
+
 
 ## 🏢 Work Experience
 
@@ -100,7 +102,9 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 - **Position:** Full Stack Developer
 - **Duration:** September 2024 - Present
 - **Responsibilites**
-  - **Maintaining** and **Developing** Lunar's wide ranging portfolio of Apps, Websites and platforms for high profile clients across the private and public sector.
+  - **Maintaining** and **building** on Lunar's wide ranging portfolio of Apps, Websites and platforms for high profile clients across the private and public sector.
+  - **Collaborating** in Lunar's Agile software development environment.
+  - Being **versatile** to a variety of stacks including React,TS, NextJS, Laravel, Roots.io / Wordpress.
  
 ### [Fifteen Ten Ltd](https://fifteenten.co.uk)
 - **Position:** Senior Developer
