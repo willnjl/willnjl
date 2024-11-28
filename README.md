@@ -99,6 +99,8 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 ### [Lunar](https://lunar.build) 
 - **Position:** Full Stack Developer
 - **Duration:** September 2024 - Present
+- **Responsibilites**
+  - **Maintaining** and **Developing** Lunar's wide ranging portfolio of Apps, Websites and platforms for high profile clients across the private and public sector.
  
 ### [Fifteen Ten Ltd](https://fifteenten.co.uk)
 - **Position:** Senior Developer
