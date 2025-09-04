@@ -1,5 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5d5e9d11-fdc3-4879-b8eb-bdebd50aa298" /># 👋  Hi there! I'm Will. 
-
+# 👋  Hi there! I'm Will. 
 
 ## 📖 About Me
 
@@ -32,6 +31,10 @@ Here is broad but not exhaustive overview of my skills and experience over the y
 **🤖🧠💡⚡️ Artificial Intellegence :**
 
 LLMs (ChatGPT, Claude, Gemini, Google Vision) / Advanced prompting techniques / Web App Integration (Chatbot integrations / Content generation, Marketing pipelines, advanced visual tools)  / n8n automation.
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+
 
 **💻🦀🐘📊 Languages:**
 
