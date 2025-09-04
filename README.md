@@ -1,4 +1,4 @@
-# 👋  Hi there! I'm Will. 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5d5e9d11-fdc3-4879-b8eb-bdebd50aa298" /># 👋  Hi there! I'm Will. 
 
 
 ## 📖 About Me
@@ -29,7 +29,9 @@ In November 2024 I launched [skeetfirst.im](https://skeetfirst.im/). An 'What's 
 
 Here is broad but not exhaustive overview of my skills and experience over the years as a developer. Feel free to ask me about anything you can see here or indeed anything not listed. I'm always open to sharing knowledge and experience!
 
+**🤖🧠💡⚡️ Artificial Intellegence :**
 
+LLMs (ChatGPT, Claude, Gemini, Google Vision) / Advanced prompting techniques / Web App Integration (Chatbot integrations / Content generation, Marketing pipelines, advanced visual tools)  / n8n automation.
 
 **💻🦀🐘📊 Languages:**
 
